@@ -41,7 +41,7 @@ async def on_message(message):
    if message.content == ('れんかぶす'):
        await message.channel.send("<@588392127919161357>"+'はかっこいいよ:heart:')
    if message.content == ('てんが利確どこ？'):
-       await message.channel.send("<@522237932606717968>"+'早く言え:heart:')
+       await message.channel.send("<@522237932606717968>"+'早よ言え:heart:')
 
 
 @bot.command()
