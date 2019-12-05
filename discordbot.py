@@ -43,7 +43,7 @@ async def on_message(message):
    if message.content == ('てんが利確どこ？'):
        await message.channel.send("<@522237932606717968>"+'早よ言え:heart:')
    if message.content == ('れんか'):
-       await message.channel.send('https://cdn.discordapp.com/attachments/650134943623675904/652116436332052500/image0.jpg')
+       await message.channel.send('https://cdn.discordapp.com/attachments/650134943623675904/652116436332052500/image0.jpg' +'  ぶ～す:heart:')
 
 
 @bot.command()
