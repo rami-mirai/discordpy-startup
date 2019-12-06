@@ -44,7 +44,8 @@ async def on_message(message):
        await message.channel.send("<@522237932606717968>"+'早よ言え:heart:')
    if message.content == ('れんか'):
        await message.channel.send('https://cdn.discordapp.com/attachments/650134943623675904/652116436332052500/image0.jpg' +'  ぶ～す:heart:')
-
+   if message.content == ('アンちゃん、おはよ！'):
+       await message.channel.send('おはよぅ:heart:')
 
 @bot.command()
 async def ping(ctx):
